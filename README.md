@@ -67,7 +67,11 @@ The radar will show:
 - Fading trail effect
 - Object size (optional feature)
 
-📸 Preview
-![Screenshot](https://github.com/CharLi0t/UltraScan-8266/raw/main/img/screenshot_1.png)
+## 📸 Preview
+<img src="https://github.com/CharLi0t/UltraScan-8266/raw/34fa69b2e86cf5d078ea8e25c4a5d02b0921de27/UltraScan%208266/img/screenshot_1.png" width="30%"/>
+<img src="https://github.com/CharLi0t/UltraScan-8266/raw/34fa69b2e86cf5d078ea8e25c4a5d02b0921de27/UltraScan%208266/img/screenshot_2.png" width="30%"/>
+<img src="https://github.com/CharLi0t/UltraScan-8266/raw/34fa69b2e86cf5d078ea8e25c4a5d02b0921de27/UltraScan%208266/img/screenshot_3.png" width="30%"/>
+
+
 
 
