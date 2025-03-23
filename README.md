@@ -68,5 +68,5 @@ The radar will show:
 - Object size (optional feature)
 
 📸 Preview
-(You can insert a screenshot of your radar visualization here)
+![คำอธิบายรูป](img/UltraScan_8266_Project.jpg)
 
