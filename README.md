@@ -4,7 +4,8 @@ A real-time radar scanner built using **ESP8266**, **HC-SR04 ultrasonic sensor**
 
 ---
 
-<img src="https://github.com/CharLi0t/UltraScan-8266/raw/34fa69b2e86cf5d078ea8e25c4a5d02b0921de27/UltraScan%208266/img/ultra_scan_8266_project.jpg" width="30%"/>
+<img src="https://github.com/CharLi0t/UltraScan-8266/blob/c6e8f9a524d53164bd9bf7c57d5cd9638b9c8baf/UltraScan%208266/img/ultra_scan_8266_project.jpg" width="30%"/>
+
 
 ---
 
@@ -72,10 +73,11 @@ The radar will show:
 - Object size (optional feature)
 
 ## 📸 Preview
-<img src="https://github.com/CharLi0t/UltraScan-8266/raw/34fa69b2e86cf5d078ea8e25c4a5d02b0921de27/UltraScan%208266/img/screenshot_1.png" width="30%"/>
-<img src="https://github.com/CharLi0t/UltraScan-8266/raw/34fa69b2e86cf5d078ea8e25c4a5d02b0921de27/UltraScan%208266/img/screenshot_2.png" width="30%"/>
-<img src="https://github.com/CharLi0t/UltraScan-8266/raw/34fa69b2e86cf5d078ea8e25c4a5d02b0921de27/UltraScan%208266/img/screenshot_3.png" width="30%"/>
-
+<p align="center">
+  <img src="https://github.com/CharLi0t/UltraScan-8266/raw/34fa69b2e86cf5d078ea8e25c4a5d02b0921de27/UltraScan%208266/img/screenshot_1.png" width="30%" margin-right:10px;/>
+  <img src="https://github.com/CharLi0t/UltraScan-8266/raw/c6e8f9a524d53164bd9bf7c57d5cd9638b9c8baf/UltraScan%208266/img/screenshot_2.png" width="30%" margin-right:10px;/>
+  <img src="https://github.com/CharLi0t/UltraScan-8266/raw/34fa69b2e86cf5d078ea8e25c4a5d02b0921de27/UltraScan%208266/img/screenshot_3.png" width="30%"/>
+</p>
 
 
 
