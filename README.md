@@ -107,5 +107,5 @@ Feel free to use, modify, and share!
 
 ## 🙌 Credits
 
-Created by [Your Name Here]
+Created by [CharLi0t](https://github.com/CharLi0t)
 Inspired by Arduino + Processing radar projects from the maker community.
