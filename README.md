@@ -80,5 +80,24 @@ The radar will show:
   <img src="https://github.com/CharLi0t/UltraScan-8266/blob/5c408736228ff54ff4075797ccb04fa63b965d23/UltraScan%208266/img/screenshot_3.png" width="30%"/>
 </p>
 
+---
 
+## 🧪 Optional Ideas
 
+- 🔔 Add buzzer alert on close objects
+- 🌈 Color code based on distance
+- 🌐 Send data to a web dashboard (ESP8266 + WiFi)
+- 📦 Record and replay scans (data logging)
+
+---
+
+## 📄 License
+MIT License
+Feel free to use, modify, and share!
+
+---
+
+## 🙌 Credits
+
+Created by [Your Name Here]
+Inspired by Arduino + Processing radar projects from the maker community.
