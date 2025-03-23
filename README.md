@@ -4,6 +4,10 @@ A real-time radar scanner built using **ESP8266**, **HC-SR04 ultrasonic sensor**
 
 ---
 
+<img src="https://github.com/CharLi0t/UltraScan-8266/raw/34fa69b2e86cf5d078ea8e25c4a5d02b0921de27/UltraScan%208266/img/ultra_scan_8266_project.jpg" width="30%"/>
+
+---
+
 ## 📦 Features
 
 - 🔁 180° servo-based radar sweep
