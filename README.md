@@ -66,12 +66,20 @@ A real-time radar scanner built using **ESP8266**, **HC-SR04 ultrasonic sensor**
 ## 🖥️ Radar GUI (Processing)
 
 Tech: Java-based Processing
-Open the processing_radar.pde file in Processing IDE and run it.
+Open the `processing_radar.pde` file in Processing IDE and run it.
 The radar will show:
 - Sweep line
 - Green dots = detected objects
 - Fading trail effect
 - Object size (optional feature)
+
+Download & install Processing IDE
+Open `processing_radar.pde`
+
+Make sure Serial port index matches your ESP8266 (edit this line if needed):
+```java
+myPort = new Serial(this, Serial.list()[0], 115200);
+```
 
 ## 📸 Preview
 <p align="center">
